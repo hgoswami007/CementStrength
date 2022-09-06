@@ -1,0 +1,4 @@
+2022-09-06/13:13:01		Enter the get_data method of the data_getter class
+2022-09-06/13:13:01		Data Load successfully
+2022-09-06/13:14:10		Enter the get_data method of the data_getter class
+2022-09-06/13:14:10		Data Load successfully

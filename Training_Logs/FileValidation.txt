@@ -1,0 +1,12 @@
+2022-09-06/16:59:18		InValid File extention!! File moved to Bad Raw Folder
+2022-09-06/17:00:04		InValid File extention!! File moved to Bad Raw Folder
+2022-09-06/17:00:32		InValid File extention!! File moved to Bad Raw Folder
+2022-09-06/17:01:06		Valid File extention!! File moved to Good Raw Folder
+2022-09-06/17:01:54		Valid File extention!! File moved to Good Raw Folder
+2022-09-06/17:01:54		InValid File extention!! File moved to Bad Raw Folder
+2022-09-06/17:03:12		Valid File extention!! File moved to Good Raw Folder
+2022-09-06/17:03:12		InValid File extention!! File moved to Bad Raw Folder
+2022-09-06/17:14:28		Valid File extention!! File moved to Good Raw Folder
+2022-09-06/17:14:28		InValid File extention!! File moved to Bad Raw Folder
+2022-09-06/17:26:18		Valid File extention!! File moved to Good Raw Folder
+2022-09-06/17:26:18		InValid File extention!! File moved to Bad Raw Folder

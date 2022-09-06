@@ -1,0 +1,2 @@
+2022-09-06/17:17:36		GoodRaw directory deleted successfully
+2022-09-06/17:26:18		Bad_Raw directory deleted successfully
